@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lawriecate&repo=dotfiles)](https://github.com/lawriecate/lawriecate)
 -->
 
 <a href="https://github.com/lawriecate/lawriecate">
@@ -22,4 +23,4 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawriecate" />
 </a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lawriecate&repo=dotfiles)](https://github.com/lawriecate/lawriecate)
+
