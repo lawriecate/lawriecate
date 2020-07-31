@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/lawriecate/lawriecate">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lawriecate&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/lawriecate/lawriecate">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawriecate" />
+</a>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lawriecate&repo=dotfiles)](https://github.com/lawriecate/lawriecate)
